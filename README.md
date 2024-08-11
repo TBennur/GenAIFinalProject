@@ -1,5 +1,7 @@
 ## Summary
 
+This project was made by Tanay Bennur, Catherine , and Nithya Kemp.
+
 ### Introduction
 
 We perform a video interpolation task - provided beginning and end frames or clips of a video, we provide context-appropriate material for the middle of a video. We aim to do this by training a combination of a VQ-VAE and a Transformer model with ample context (31 frames) and attempting to predict missing frames in a lower context (2 or 6 frame) setting. Using a modified version of the Vimeo90k dataset, our model is able to cohesively interpolate video for provided inputs, approaching though not currently meeting industry levels, given time and compute constraints.
