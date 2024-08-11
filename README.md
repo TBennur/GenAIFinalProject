@@ -1,6 +1,6 @@
 ## Summary
 
-This project was made by Tanay Bennur, Catherine , and Nithya Kemp.
+This project was made by Tanay Bennur, Cathleen Chen, and Nithya Kemp.
 
 ### Introduction
 
