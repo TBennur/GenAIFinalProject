@@ -17,4 +17,4 @@ We begin with sequences of video frames and quantize them using a VQ-VAE. We app
 ![Original Frames](https://github.com/TBennur/GenAIFinalProject/blob/main/images/final_original_ex.png "Original Frames")
 
 ### Reconstruction
-![Reconstruction](https://github.com/TBennur/GenAIFinalProject/blob/main/images/final_model_ex.pngg "Reconstruction")
+![Reconstruction](https://github.com/TBennur/GenAIFinalProject/blob/main/images/final_model_ex.png "Reconstruction")
